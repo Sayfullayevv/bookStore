@@ -14,17 +14,9 @@ function Home() {
         <>
             <Box className="home">
                 <Container
+                    fixed
                     style={{
                         overflow: "hidden",
-                    }}
-                    sx={{
-                        maxWidth: {
-                            xs: "xs",
-                            sm: "sm",
-                            md: "md",
-                            lg: "lg",
-                            xl: "xl",
-                        },
                     }}
                 >
                     <Stack

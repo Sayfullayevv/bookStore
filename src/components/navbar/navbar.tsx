@@ -18,7 +18,7 @@ function Navbar() {
                     xs: "100%",
                     sm: "100%",
                     md: "100%",
-                    lg: "75px",
+                    lg: "70px",
                     xl: "70px",
                 },
                 bottom: {
